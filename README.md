@@ -1,1 +1,1 @@
-# up-taunt-fs
+# Up taunt Final Smash (Smashline 2)
